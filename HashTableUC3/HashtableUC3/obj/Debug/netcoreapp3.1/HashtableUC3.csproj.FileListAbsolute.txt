@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\bin\Debug\netcoreapp3.1\HashtableUC3.exe
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\bin\Debug\netcoreapp3.1\HashtableUC3.deps.json
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\bin\Debug\netcoreapp3.1\HashtableUC3.runtimeconfig.json
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\bin\Debug\netcoreapp3.1\HashtableUC3.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\bin\Debug\netcoreapp3.1\HashtableUC3.dll
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\bin\Debug\netcoreapp3.1\HashtableUC3.pdb
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.dll
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.pdb
+C:\Users\INDIA\source\repos\HashtableUC3\HashtableUC3\obj\Debug\netcoreapp3.1\HashtableUC3.genruntimeconfig.cache
