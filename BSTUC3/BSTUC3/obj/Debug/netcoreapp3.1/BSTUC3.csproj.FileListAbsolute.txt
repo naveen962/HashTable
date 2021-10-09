@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\bin\Debug\netcoreapp3.1\BSTUC3.exe
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\bin\Debug\netcoreapp3.1\BSTUC3.deps.json
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\bin\Debug\netcoreapp3.1\BSTUC3.runtimeconfig.json
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\bin\Debug\netcoreapp3.1\BSTUC3.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\bin\Debug\netcoreapp3.1\BSTUC3.dll
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\bin\Debug\netcoreapp3.1\BSTUC3.pdb
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.dll
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.pdb
+C:\Users\INDIA\source\repos\BSTUC3\BSTUC3\obj\Debug\netcoreapp3.1\BSTUC3.genruntimeconfig.cache
